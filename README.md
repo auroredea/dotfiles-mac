@@ -14,7 +14,7 @@
 2. Prefences > Editor > Color Scheme : Darcula
 3. Language > Prettier > automatic, run on save (same for eslint)
 4. Appearence > appearence > UI Options : compact mode
-5. Install GitHub Copilot, GitHub and GitLab plugin
+5. Install Atom Material icons, Docker, GitHub Copilot, GitHub and GitLab plugin
 
 <img width="5256" height="2966" alt="Capture d’écran" src="https://github.com/user-attachments/assets/57cc914c-89f9-492f-943b-6ae4df67f91c" />
 
