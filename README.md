@@ -16,9 +16,9 @@
 4. Appearence > appearence > UI Options : compact mode
 5. Install GitHub Copilot, GitHub and GitLab plugin
 
-![image](https://github.com/user-attachments/assets/8f215582-f2d6-4d75-9de4-98f104092c97)
+<img width="5256" height="2966" alt="Capture d’écran" src="https://github.com/user-attachments/assets/57cc914c-89f9-492f-943b-6ae4df67f91c" />
 
 * Top left : Project, Commit, More
-* Bottom Left : Git, Terminal, Services, Run, Debug
-* Top right: Notifications, Problems, Database | GitHub Copilot, GitHub Copilot Chat
-* Bottom : Line:Column, Language Services
+* Bottom Left : Git, Terminal, Services, Run and Debug
+* Top right: Notifications, Problems, GitHub Copilot Chat
+* Bottom : Copilot, Line:Column, Language Services, LF, file encoding
